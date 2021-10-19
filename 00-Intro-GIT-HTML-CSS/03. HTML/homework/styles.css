@@ -1,0 +1,27 @@
+<style>
+    body
+    {
+background-image: url('https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias.jpg?crop=1xw:0.6666666666666666xh;center,top&resize=1200:*');
+background-repeat: round;
+background-attachment: fixed
+}
+#thirdDiv{
+width: 500px; height: 600px;
+background-color: rgb(46, 114, 114);
+padding: 50px;
+border-style: dotted; 
+text-align: center;
+}
+
+.divClass{
+color: rgb(19, 202, 132);
+font-weight: 900;
+    text-align: center;
+}
+
+#spanId{
+font-size: 18px;
+margin: 50px;
+text-align: center;
+}
+</style>
